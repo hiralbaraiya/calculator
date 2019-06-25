@@ -1,1 +1,1 @@
-MY APP
+Example of context and hooks
